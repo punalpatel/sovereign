@@ -1,0 +1,2 @@
+- include: monit.yml tags=monit
+- include: logwatch.yml tags=logwatch
