@@ -201,4 +201,4 @@ If you improve one of the provided playbooks or add an exciting new one, send a 
 
 h2. License
 
-Original content is "GPLv3":http://gplv3.fsf.org, same as Ansible. All files and templates based on third-party software should be considered under their respective licenses.
+Original content is "GPLv3":http://gplv3.fsf.org, same as Ansible. All files and templates based on third-party software should be considered under their respective licenses. 
