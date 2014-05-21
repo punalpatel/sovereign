@@ -5,10 +5,10 @@ import socket
 import requests
 import os
 
-TEST_SERVER = 'sovereign.local'
-TEST_ADDRESS = 'sovereign@sovereign.local'
-TEST_PASSWORD = 'foo'
-CA_BUNDLE = 'roles/common/files/wildcard_ca.pem'
+TEST_SERVER = ''
+TEST_ADDRESS = ''
+TEST_PASSWORD = ''
+CA_BUNDLE = 'roles/common/files/aws.pem'
 
 
 socket.setdefaulttimeout(5)
